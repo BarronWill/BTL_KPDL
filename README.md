@@ -24,5 +24,5 @@ Dữ liệu sử dụng cho hệ thống đề xuất sách có thể được t
 3. **Chạy hệ thống**
    ```bash
    python main.py
-4  **Kết quả kiểm tra**
+4. **Kết quả kiểm tra**
    Hệ thống sẽ đưa ra các đề xuất dựa trên dữ liệu đầu vào và xuất kết quả trên terminal.
